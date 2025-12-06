@@ -170,13 +170,13 @@ export default function RootLayout({
                   },
                   image: {
                     "@type": "ImageObject",
-                    url: "https://prestigia-agency.com/logo.png",
+                    url: "https://prestigia-agency.com/prestigia-logo-32.png",
                     width: 400,
                     height: 400,
                   },
                   logo: {
                     "@type": "ImageObject",
-                    url: "https://prestigia-agency.com/logo.png",
+                    url: "https://prestigia-agency.com/prestigia-logo-32.png",
                     width: 400,
                     height: 400,
                   },
@@ -226,7 +226,7 @@ export default function RootLayout({
                   "@id": "https://prestigia-agency.com/#organization",
                   name: "Prestigia Agency",
                   url: "https://prestigia-agency.com",
-                  logo: "https://prestigia-agency.com/logo.png",
+                  logo: "https://prestigia-agency.com/prestigia-logo-32.png",
                   sameAs: [
                     "https://www.facebook.com/prestigia",
                     "https://www.instagram.com/prestigia",
